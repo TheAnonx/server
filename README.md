@@ -13,6 +13,7 @@ No terminal do VS Code, execute:
 ```bash
 cd crafty-4
 python3 main.py
+```
 Mantenha esta aba do terminal aberta para que o painel continue funcionando.
 
 2. Acessar o Painel Web
